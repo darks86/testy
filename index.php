@@ -1,5 +1,5 @@
 <?php 
-$str = "nie123";
+$str = "nie321";
 setlocale(LC_TIME,"pl_PL.UTF-8");
 var_dump(urlencode(urlencode('chłodnictwo')));
 
